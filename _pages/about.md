@@ -13,6 +13,8 @@ Yiduo Wang received the BS degree from the Department of Computer Science, Unive
 Contact Info
 ------
 Telephone: 	+86-19956536521
+
 Email: 	duo[at]mail[dot]ustc[dot]edu[dot]cn
+
 Homepage: 	TBD
 
