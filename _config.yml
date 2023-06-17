@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yiduo Wang's Homepage"
 title_separator          : "-"
-name                     : &name "Yiduo Wang"
+name                     : &name "Yiduo Wang(王一多)"
 description              : &description "personal description"
 url                      : https://uncleduo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
