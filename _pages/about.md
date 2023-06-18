@@ -14,7 +14,7 @@ Contact Info
 ------
 Telephone: 	+86-19956536521
 
-Email: 	duo\[at\]mail\[dot\]ustc\[dot\]edu\[dot\]cn
+Email: 	[duo\[at\]mail\[dot\]ustc\[dot\]edu\[dot\]cn](duo@mail.ustc.edu.cn)
 
-Homepage: 	[yiduo.site](yiduo.site)
+Homepage: 	[yiduo.site](https://yiduo.site/)
 
