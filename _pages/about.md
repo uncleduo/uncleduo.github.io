@@ -8,11 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Yiduo Wang received the BS degree from the Department of Computer Science, University of Electronic Science and Technology of China, China, in 2018.
+I am Yiduo Wang(王一多), a 4th year system Ph.D. student at [ADSL](http://adsl.ustc.edu.cn/) in USTC, advised by Professor Yinlong Xu and [Cheng Li](http://staff.ustc.edu.cn/~chengli7/). My research focuses on metadata management of large scale distributed distributed systems.
 
-I'm currently working toward the PhD degree with the School of Computer Science and Technology, University of Science and Technology of China.
+Education
+------
 
-My  research focuses on scalable metadata management of distributed file systems, including metadata organization, partition, load balance.
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+  <div style="font-weight: bold;">Ph.D.</div>
+  <div>in School of Computer Science and Technology, <b>USTC</b></div>
+  <div style="text-align: right;">2018 - present</div>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+  <div style="font-weight: bold;">B.S.</div>
+  <div> in School of Computer Science and Engineering, <b>UESTC</b></div>
+  <div style="text-align: right;">2014 - 2018</div>
+</div>
+
+<!-- **Ph.D.** in 
+**B.S.** in School of Computer Science and Engineering, UESTC -->
 
 Representative Papers
 ------
