@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiduo Wang, a system PhD student."
+title: "Yiduo Wang(王一多), a system PhD student."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
