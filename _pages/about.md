@@ -10,6 +10,14 @@ redirect_from:
 
 I am Yiduo Wang(王一多), a 4th year system Ph.D. student at [ADSL](http://adsl.ustc.edu.cn/) in USTC, advised by Professor Yinlong Xu and [Cheng Li](http://staff.ustc.edu.cn/~chengli7/). My research focuses on metadata management of large scale distributed distributed systems.
 
+Contact Info
+------
+Telephone: 	+86-19956536521
+
+Email: 	<a href="mailto:duo@mail.ustc.edu.cn">duo\[at\]mail\[dot\]ustc\[dot\]edu\[dot\]cn</a>
+
+Homepage: 	[yiduo.site](http://yiduo.site/)
+
 Education
 ------
 
@@ -35,18 +43,16 @@ Representative Papers
 
 Research
 ------
+
 Distributed Storage System
 -------
 - Metadata Management
   - High scalability with fully POSIX-compliance [CFS (EuroSys'23)](publication/2023-05-08-CFS)
   - Load balance [Lunule (SC'21)](publication/2021-11-14-Lunule)
 
-
-Contact Info
+Selected Honors
 ------
-Telephone: 	+86-19956536521
-
-Email: 	<a href="mailto:duo@mail.ustc.edu.cn">duo\[at\]mail\[dot\]ustc\[dot\]edu\[dot\]cn</a>
-
-Homepage: 	[yiduo.site](http://yiduo.site/)
-
+- [2023] CAS Presidential Scholarship - Special Prize 中科院院长奖特别奖
+- [2021] USTC Guo Rui Scholarship 中科大国睿奖学金
+- [2021] Selected for DPCS Outstanding Doctoral Students Forum 
+- [2019] PAAP Best Student Paper
