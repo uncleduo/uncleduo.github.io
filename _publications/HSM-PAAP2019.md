@@ -10,6 +10,6 @@ citation: '<b>Yiduo Wang</b>, Youxu Chen, Xinyang Shao, Jinzhong Chen, Liu Yuan,
 ---
 
 
-# [Download paper here](http://uncleduo.github.io/files/HSM-PAAP19.pdf)
+[Download paper here](http://uncleduo.github.io/files/HSM-PAAP19.pdf)
 
-# Recommended citation: <b>Yiduo Wang</b>, Youxu Chen, Xinyang Shao, Jinzhong Chen, Liu Yuan, Yinlong Xu. "HSM 2: A Hybrid and Scalable Metadata Management Method in Distributed File Systems." <i>International Symposium on Parallel Architectures, Algorithms and Programming (PAAP 19)</i>, pages 195-206. Springer Singapore, 2019.
+Recommended citation: <b>Yiduo Wang</b>, Youxu Chen, Xinyang Shao, Jinzhong Chen, Liu Yuan, Yinlong Xu. "HSM 2: A Hybrid and Scalable Metadata Management Method in Distributed File Systems." <i>International Symposium on Parallel Architectures, Algorithms and Programming (PAAP 19)</i>, pages 195-206. Springer Singapore, 2019.
