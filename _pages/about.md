@@ -33,6 +33,14 @@ Representative Papers
 - **[EuroSys 23]** CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections. **Yiduo Wang**, Cheng Li, Xinyang Shao, Youxu Chen, Feng Yan, and Yinlong Xu.
 - **[SC 21]** Lunule: an agile and judicious metadata load balancer for CephFS. **Yiduo Wang**, Cheng Li, Xinyang Shao, Youxu Chen, Feng Yan, and Yinlong Xu.
 
+Research
+------
+Distributed Storage System
+-------
+- Metadata Management
+  - High scalability with fully POSIX-compliance [CFS (EuroSys'23)](publication/2023-05-08-CFS)
+  - Load balance [Lunule (SC'21)](publication/2021-11-14-Lunule)
+
 
 Contact Info
 ------
