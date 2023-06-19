@@ -47,8 +47,8 @@ Research
 **Distributed Storage System**
 
 - Metadata Management
-  - High scalability with fully POSIX-compliance [CFS (EuroSys'23)](publication/2023-05-08-CFS)
-  - Load balance [Lunule (SC'21)](publication/2021-11-14-Lunule)
+  - A highly scalable DFS metadata management with fully POSIX-compliance [CFS (EuroSys'23)](publication/2023-05-08-CFS)
+  - A dynamic metadata load balancer [Lunule (SC'21)](publication/2021-11-14-Lunule)
 
 Selected Honors
 ------
