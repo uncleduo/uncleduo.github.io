@@ -53,8 +53,8 @@ Research
 
 Selected Honors
 ------
-- [2023] CAS Presidential Scholarship - Special Prize 中科院院长奖特别奖
-- [2023] Distinguished Doctoral Graduate of USTC 中科大优秀毕业生
+- [2023] CAS Presidential Scholarship - Special Prize 中国科学院院长特别奖
+- [2023] Distinguished Doctoral Graduate of USTC 中国科学技术大学优秀毕业生
 - [2021] USTC Guo Rui Scholarship 中科大国睿奖学金
 - [2021] Selected for DPCS Outstanding Doctoral Students Forum 
 - [2019] PAAP Best Student Paper
