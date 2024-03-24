@@ -45,7 +45,7 @@ Education
 Representative Papers
 ------
 
-- **[EuroSys 23]** CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections. **Yiduo Wang**, Cheng Li, Xinyang Shao, Youxu Chen, Feng Yan, and Yinlong Xu.
+- **[EuroSys 23]** CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections. **Yiduo Wang**, Yufei Wu, Cheng Li, Pengfei Zheng, Biao Cao, Yan Sun, Fei Zhou, Yinlong Xu, Yao Wang, Guangjun Xie.
 - **[SC 21]** Lunule: an agile and judicious metadata load balancer for CephFS. **Yiduo Wang**, Cheng Li, Xinyang Shao, Youxu Chen, Feng Yan, and Yinlong Xu.
 
 Research
