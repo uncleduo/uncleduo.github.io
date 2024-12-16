@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yiduo Wang(王一多), a 3th year system Ph.D. student at [ADSL](http://adsl.ustc.edu.cn/) in USTC, advised by Professor Yinlong Xu and [Cheng Li](http://staff.ustc.edu.cn/~chengli7/). My research focuses on metadata management of large scale distributed distributed systems.
+I am Yiduo Wang(王一多), a researcher at [China Telecom Cloud Computing Research Institute](http://ccri.chinatelecom.cn/). My research interests primarily focus on intelligent distributed storage systems, including large-scale distributed file systems and AI for storage systems. I received my Ph.D. degree (advised by [Cheng Li](http://staff.ustc.edu.cn/~chengli7/)) from USTC in 2024.
 
 Contact Info
 ------
@@ -24,7 +24,7 @@ Education
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
   <div style="font-weight: bold;">Ph.D.</div>
   <div>in School of Computer Science and Technology, <b>USTC</b></div>
-  <div style="text-align: right;">2020 - present</div>
+  <div style="text-align: right;">2020 - 2024</div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
@@ -59,6 +59,7 @@ Research
 
 Selected Honors
 ------
+- [2024] ACM SIGHPC China Outstanding Doctoral Dissertation Award
 - [2023] CAS Presidential Scholarship - Special Prize 中国科学院院长特别奖
 - [2023] Distinguished Doctoral Graduate of USTC 中国科学技术大学优秀毕业生
 - [2021] CETC The 14th Research Institute Glarun Scholarship 中国电科十四所国睿奖学金
