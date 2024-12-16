@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiduo Wang(王一多), a system PhD student at USTC."
+title: "Yiduo Wang(王一多), a system researcher at China Telecom Cloud Computing Research Institute."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
