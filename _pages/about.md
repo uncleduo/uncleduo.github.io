@@ -44,8 +44,11 @@ Education
 
 Representative Papers
 ------
-
-- **[EuroSys 23]** CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections. **Yiduo Wang**, Yufei Wu, Cheng Li, Pengfei Zheng, Biao Cao, Yan Sun, Fei Zhou, Yinlong Xu, Yao Wang, Guangjun Xie.
+- To appear in **[ICPP 25]** Origami: Efficient ML-Driven Metadata Load Balancing for Distributed File Systems.
+**Yiduo Wang**, Wenda Tang, Linghang Meng, Liang Li, and Jie Wu.
+- To appear in **[ICPP 25]** Leave No One Behind: Fair and Efficient Tiered Memory Management for Multi-Applications. Wenda Tang, **Yiduo Wang**, Yanwen Wang, and Jie Wu.
+- **[TOS]** Towards Agile and Judicious Metadata Load Balancing for Ceph File System via Matrix-based Modeling. Xinyang Shao, **Yiduo Wang**, Cheng Li, Hengyu Liang, Chenhan Wang, Feng Yan, and Yinlong Xu.
+- **[EuroSys 23]** CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections. **Yiduo Wang**, Yufei Wu, Cheng Li, Pengfei Zheng, Biao Cao, Yan Sun, Fei Zhou, Yinlong Xu, Yao Wang, and Guangjun Xie.
 - **[SC 21]** Lunule: an agile and judicious metadata load balancer for CephFS. **Yiduo Wang**, Cheng Li, Xinyang Shao, Youxu Chen, Feng Yan, and Yinlong Xu.
 
 Research
