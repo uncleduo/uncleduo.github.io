@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiduo Wang(王一多), a system researcher at China Telecom Cloud Computing Research Institute."
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
