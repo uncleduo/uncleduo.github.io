@@ -24,13 +24,7 @@ Education
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
   <div style="font-weight: bold;">Ph.D.</div>
   <div>in School of Computer Science and Technology, <b>USTC</b></div>
-  <div style="text-align: right;">2020 - 2024</div>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-  <div style="font-weight: bold;">M.D.</div>
-  <div>in School of Computer Science and Technology, <b>USTC</b></div>
-  <div style="text-align: right;">2018 - 2020</div>
+  <div style="text-align: right;">2018 - 2024</div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
