@@ -39,3 +39,62 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.author__avatar {
+    position: relative;
+    display: inline-block;
+    
+    .custom-tooltip {
+        position: absolute;
+        bottom: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 10px;
+        
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 12px 16px;
+        border-radius: 8px;
+        font-size: 14px;
+        font-weight: 500;
+        white-space: nowrap;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.2s ease;
+        z-index: 1000;
+        
+        &::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 6px solid transparent;
+            border-top-color: #764ba2;
+        }
+    }
+    
+    &:hover .custom-tooltip {
+        opacity: 1;
+        visibility: visible;
+        transform: translateX(-50%) translateY(-5px);
+    }
+    
+    img:hover {
+        transform: scale(1.05);
+        transition: transform 0.2s ease;
+    }
+}
+
+@media (max-width: 768px) {
+    .author__avatar .custom-tooltip {
+        font-size: 12px;
+        padding: 10px 14px;
+        max-width: 200px;
+        white-space: normal;
+        text-align: center;
+    }
+}
