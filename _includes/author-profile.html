@@ -8,11 +8,14 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.avatar_title | default: author.name }}">
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" title="{{ author.avatar_title | default: author.name }}">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
-</div>
+    <div class="custom-tooltip">
+        {{ author.avatar_title | default: "In memory of my beloved hamster, \"Little Mouse\"" }}
+    </div>
+  </div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
