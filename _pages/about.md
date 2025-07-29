@@ -39,17 +39,17 @@ Education
 Representative Papers
 ------
 - **Yiduo Wang**, [Wenda Tang](https://kirchhoff.github.io/), Linghang Meng, Liang Li, and [Jie Wu](https://cis.temple.edu/~wu/). <br>
-Origami: Efficient ML-Driven Metadata Load Balancing for Distributed File Systems. To appear in **[ICPP 25]**.
+Origami: Efficient ML-Driven Metadata Load Balancing for Distributed File Systems. To appear in **[ICPP'25]**.
 - [Wenda Tang](https://kirchhoff.github.io/), **Yiduo Wang**, Yanwen Wang, and [Jie Wu](https://cis.temple.edu/~wu/). <br>
-Leave No One Behind: Fair and Efficient Tiered Memory Management for Multi-Applications. To appear in **[ICPP 25]**.
+Leave No One Behind: Fair and Efficient Tiered Memory Management for Multi-Applications. To appear in **[ICPP'25]**.
 - Jiahao Li, Biao Cao, Jielong Jian, Cheng Li, Sen Han, **Yiduo Wang**, Yufei Wu, Kang Chen, Liguo Duan, Jie Zhao, Zhihui Yin, Qiushi Chen, Jiwei Xiong, Fengyuan Liu, Yan Xing, Ran Zheng, Miao Yu, Xianjun Meng, and Feng Wu.<br>
-Mantle: Efficient Hierarchical Metadata Management for Cloud Object Storage Services. To appear in **[SOSP 25]**.
+Mantle: Efficient Hierarchical Metadata Management for Cloud Object Storage Services. To appear in **[SOSP'25]**.
 - Xinyang Shao, **Yiduo Wang**, Cheng Li, Hengyu Liang, Chenhan Wang, Feng Yan, and Yinlong Xu.<br>
-Towards Agile and Judicious Metadata Load Balancing for Ceph File System via Matrix-based Modeling. **[TOS]**.
+Towards Agile and Judicious Metadata Load Balancing for Ceph File System via Matrix-based Modeling. **[TOS'25]**.
 - **Yiduo Wang**, Yufei Wu, Cheng Li, Pengfei Zheng, Biao Cao, Yan Sun, Fei Zhou, Yinlong Xu, Yao Wang, and Guangjun Xie.<br>
-CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections. **[EuroSys 23]**.
+CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections. **[EuroSys'23]**.
 - **Yiduo Wang**, Cheng Li, Xinyang Shao, Youxu Chen, Feng Yan, and Yinlong Xu.<br>
-Lunule: an agile and judicious metadata load balancer for CephFS. **[SC 21]**.
+Lunule: an agile and judicious metadata load balancer for CephFS. **[SC'21]**.
 
 Research
 ------
