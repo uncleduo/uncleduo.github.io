@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yiduo Wang(王一多), a researcher at [China Telecom Cloud Computing Research Institute](http://ccri.chinatelecom.cn/). My research interests primarily focus on large scale distributed storage systems and metadata management. I received my Ph.D. degree (advised by [Cheng Li](http://staff.ustc.edu.cn/~chengli7/)) from USTC in 2024.
+I am Yiduo Wang(王一多), a researcher at [China Telecom Cloud Computing Research Institute](http://ccri.chinatelecom.cn/). My research interests primarily focus on large scale distributed storage systems and metadata management. I received my Ph.D. degree (advised by Yinlong Xu and [Cheng Li](http://staff.ustc.edu.cn/~chengli7/)) from USTC in 2024.
 
 Contact Info
 ------
