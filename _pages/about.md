@@ -16,25 +16,7 @@ Telephone: 	+86-19956536521
 
 Email: 	<a href="mailto:duo@mail.ustc.edu.cn">duo\[at\]mail\[dot\]ustc\[dot\]edu\[dot\]cn</a>
 
-Homepage: 	[yiduo.site](http://yiduo.site/)
-
-Education
-------
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-  <div style="font-weight: bold;">Ph.D.</div>
-  <div>in School of Computer Science and Technology, <b>USTC</b></div>
-  <div style="text-align: right;">2018 - 2024</div>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-  <div style="font-weight: bold;">B.S.</div>
-  <div> in School of Computer Science and Engineering, <b>UESTC</b></div>
-  <div style="text-align: right;">2014 - 2018</div>
-</div>
-
-<!-- **Ph.D.** in 
-**B.S.** in School of Computer Science and Engineering, UESTC -->
+<!-- Homepage: 	[yiduo.site](http://yiduo.site/) -->
 
 Representative Papers
 ------
@@ -65,8 +47,26 @@ Research
 **Distributed Storage System**
 
 - Metadata Management
-  - A highly scalable DFS metadata management with fully POSIX-compliance [CFS (EuroSys'23)](publication/2023-05-08-CFS)
-  - A dynamic metadata load balancer [Lunule (SC'21)](publication/2021-11-14-Lunule)
+  - Highly scalable DFS metadata management [CFS (EuroSys'23)](publication/2023-05-08-CFS), Mantle (SOSP'25)
+  - Intelligent, dynamic metadata load balancing mechanism [Lunule (SC'21)](publication/2021-11-14-Lunule), Lunule+ [TOS'25], Origami (ICPP'25)
+
+Education
+------
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+  <div style="font-weight: bold;">Ph.D.</div>
+  <div>in School of Computer Science and Technology, <b>USTC</b></div>
+  <div style="text-align: right;">2018 - 2024</div>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+  <div style="font-weight: bold;">B.S.</div>
+  <div> in School of Computer Science and Engineering, <b>UESTC</b></div>
+  <div style="text-align: right;">2014 - 2018</div>
+</div>
+
+<!-- **Ph.D.** in 
+**B.S.** in School of Computer Science and Engineering, UESTC -->
 
 Selected Honors
 ------
