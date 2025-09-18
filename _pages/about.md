@@ -20,7 +20,7 @@ Email: 	<a href="mailto:duo@mail.ustc.edu.cn">duo\[at\]mail\[dot\]ustc\[dot\]edu
 
 Representative Papers
 ------
-*If you're interested in any of my papers but can’t access the PDF, feel free to contact me.*
+*If you're interested in any of my papers/talks but can’t access the PDF, feel free to contact me.*
 
 **Doctoral Dissertation**
 - Metadata Scalability in Distributed File Systems / 分布式文件系统元数据可扩展性研究
