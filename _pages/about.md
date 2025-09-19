@@ -14,7 +14,10 @@ Contact Info
 ------
 Telephone: 	+86-19956536521
 
-Email: 	<a href="mailto:duo@mail.ustc.edu.cn">duo\[at\]mail\[dot\]ustc\[dot\]edu\[dot\]cn</a>
+Email: 	<a href="mailto:duo@mail.ustc.edu.cn">duo\[at\]mail\[dot\]ustc\[dot\]edu\[dot\]cn</a> or 
+
+<a href="mailto:wangyd22@chinatelecom.cn">wangyd22\[at\]chinatelecom\[dot\]cn</a> <span class="note-small">
+ may occasionally fail to receive emails from Gmail or other overseas services </span>
 
 <!-- Homepage: 	[yiduo.site](http://yiduo.site/) -->
 
@@ -71,8 +74,7 @@ Education
 Selected Honors
 ------
 - [2024] ACM SIGHPC China Outstanding Doctoral Dissertation Award
-- [2023] CAS Presidential Scholarship - Special Prize 中国科学院院长特别奖
-- [2023] Distinguished Doctoral Graduate of USTC 中国科学技术大学优秀毕业生
-- [2021] CETC The 14th Research Institute Glarun Scholarship 中国电科十四所国睿奖学金
+- [2023] CAS Presidential Scholarship - Special Prize <!-- 中国科学院院长特别奖 -->
+- [2023] Distinguished Doctoral Graduate of USTC <!-- 中国科学技术大学优秀毕业生 --> <!-- - [2021] CETC The 14th Research Institute Glarun Scholarship 中国电科十四所国睿奖学金 -->
 - [2021] Selected for DPCS Outstanding Doctoral Students Forum 
 - [2019] PAAP Best Student Paper
